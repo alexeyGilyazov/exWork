@@ -7,10 +7,17 @@ function App() {
         setCounter(counter + 1)
     }
 
-    return <>
-        <h1>counter : {counter}</h1>
-        <button onClick={onChangeCounter}>Increment</button>
-    </>
+    const onDecrement = () => {
+        setCounter(counter - 1)
+    }
+
+    return (
+        <>
+            <h1>counter : {counter}</h1>
+            <button onClick={onChangeCounter}>Increment</button>
+            <button onClick={onDecrement}>Decrement</button>
+        </>
+    )
 }
 
 export default App
