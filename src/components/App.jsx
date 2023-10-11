@@ -8,6 +8,7 @@ function App() {
         <>
             <BookList />
             <GoodList />
+
         </>
     )
 }
