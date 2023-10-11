@@ -4,13 +4,21 @@ const bookSlice = createSlice({
   name: 'books',
   initialState: {
     data: [],
+    loading: false
   },
   reducers: {
-    fetchBooks: (state, action) => {
+    fetchBooksStart: (state) => {
+      state.loading = true
+    },
+    fetchBooksSuccess: (state, action) => {
       state.data = action.payload
+      state.loading = false
+    },
+    fetchBooksFailure: (state) => {
+      state.loading = false
     },
   },
 })
 
-export const { fetchBooks } = bookSlice.actions
+export const { fetchBooksStart, fetchBooksSuccess, fetchBooksFailure } = bookSlice.actions
 export default bookSlice.reducer
