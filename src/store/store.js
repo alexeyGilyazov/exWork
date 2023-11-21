@@ -1,12 +1,8 @@
 import { configureStore } from "@reduxjs/toolkit";
-import bookReducer from "./bookSlice";
-import goodReducer from "./goodSlice";
+import vacantionsReducer from './../slice/vacantionSlice'
 
-const store = configureStore({
+export default configureStore({
   reducer: {
-    books: bookReducer,
-    goods: goodReducer,
-  }
+    vacantion: vacantionsReducer,
+  },
 })
-
-export default store;

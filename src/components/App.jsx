@@ -1,16 +1,21 @@
 import React from 'react'
-// import BookList from './booklist/BookList'
-import GoodList from './goodslist/GoodList'
+import Nav from './navigation/Nav'
+// import Hero from './hero/Hero'
+import Main from './main/Main'
+import FormSearch from './UI/formSearch/FormSearch'
+import Vacantion from './vacantion/Vacantion'
+// import Slider from './UI/slider/slider'
 
-function App() {
-
-    return (
-        <>
-            {/* <BookList /> */}
-            <GoodList />
-
-        </>
-    )
+const App = () => {
+  return (
+    <div>
+      <Nav />
+      <Main />
+      {/* <Hero /> */}
+      <FormSearch />
+      <Vacantion />
+    </div>
+  )
 }
 
 export default App

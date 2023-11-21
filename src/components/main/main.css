@@ -1,0 +1,65 @@
+.main {
+  position: relative;
+  height: 600px;
+  max-width: 1300px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+/* .main::after {
+  content: '';
+  position: absolute;
+  background-image: url('https://j2cweb-prod.jobs2careers.com/r/img/homePage/workersRight.svg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+  top: 0;
+  left: -600px;
+  height: 100%;
+  width: 100%;
+} */
+
+.main__container {
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-top: 80px;
+}
+
+.bg-img {
+  /* background-image: url("https://j2cweb-prod.jobs2careers.com/r/img/homePage/workersLeft.svg"); */
+  background: url('./../../assets/home.webp');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  width: 500px;
+  height: 100%;
+}
+
+.title-block {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 20px;
+  text-align: center;
+  font-size: 33px;
+  z-index: 2;
+  height: 100%;
+  /* margin-top: 150px; */
+  color: white;
+}
+
+.block__wrapper {
+  background: radial-gradient(ellipse farthest-corner, #2400edd3 0%, #345dc4 90%);
+  border-radius: 30px;
+  padding: 20px;
+  max-width: 500px;
+}
+
+.main-title {
+  letter-spacing: normal;
+}
