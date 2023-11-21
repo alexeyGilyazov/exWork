@@ -1,3 +1,6 @@
+Выпускная экзаменационная работа по направлению FrontEnd. 
+Тема работы - аналог HH.ru
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
