@@ -55,6 +55,7 @@
 
 .block__wrapper {
   background: radial-gradient(ellipse farthest-corner, #2400edd3 0%, #345dc4 90%);
+  /* background-color: #7B7C81 !important; */
   border-radius: 30px;
   padding: 20px;
   max-width: 500px;

@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import WorkIcon from '@mui/icons-material/Work';
 
-const pages = ['Список вакансий', 'Мое резюме', 'Настройки'];
+const pages = ['Список вакансий', 'Мое резюме', 'Настройки', 'Избранные'];
 const settings = ['Профиль', 'Вакансии', 'Выйти'];
 
 function Nav() {

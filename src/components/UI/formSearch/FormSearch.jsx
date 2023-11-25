@@ -4,9 +4,11 @@ import './style.css'
 import { Input } from '@mui/base/Input'
 import SearchIcon from '@mui/icons-material/Search'
 
-const jobsPlaceholder = 'Кладовщик, инженер... '
-const cityPlaceholder = 'Москва, Киров...'
-const salaryPlaceholder = 'от 20 000р'
+const placeholderData = {
+  job: 'Кладовщик, инженер... ',
+  city: 'Москва, Киров...',
+  salary: 'от 20 000р'
+}
 
 const FormSearch = () => {
 
@@ -24,7 +26,7 @@ const FormSearch = () => {
       <form className='form-search'>
         <Input
           type='text'
-          placeholder={jobsPlaceholder}
+          placeholder={placeholderData.job}
           value={userData.jobs}
           onChange={e => setUserData({ ...userData, jobs: e.target.value })}
           className='input input-first'
@@ -32,14 +34,14 @@ const FormSearch = () => {
         <Input
           className='input input-second'
           type='text'
-          placeholder={cityPlaceholder}
+          placeholder={placeholderData.city}
           value={userData.city}
           onChange={e => setUserData({ ...userData, city: e.target.value })}
         />
         <Input
           className='input input-third'
           type='text'
-          placeholder={salaryPlaceholder}
+          placeholder={placeholderData.salary}
           value={userData.salary}
           onChange={e => setUserData({ ...userData, salary: e.target.value })}
         />
