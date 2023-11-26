@@ -4,7 +4,7 @@ import {
   setVacancies,
   setFilteredVacantions,
   sortVacancies,
-  searchRegionReducer,
+  // searchRegionReducer,
 } from './../../slice/vacantionSlice'
 import axios from 'axios'
 import regionList from './../../data/region.json'
@@ -162,6 +162,7 @@ const Vacantion = () => {
             ]}
           />
         </div>
+        <button onClick={() => dispatch(setFilteredVacantions([]))}>Сброс</button>
       </form>
 
       <div className='vacantion__wrapper'>
@@ -185,6 +186,7 @@ const Vacantion = () => {
                 name={item.vacancy['job-name']}
                 salary={item.vacancy.salary_min}
                 needOpen={needOpen}
+                duty={item.vacancy.duty}
               />
               <p style={{ paddingLeft: '10px' }}>
                 <span className='span'>Регион:</span> <br />

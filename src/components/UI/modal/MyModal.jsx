@@ -12,17 +12,17 @@ const style = {
   transform: 'translate(-50%, -50%)',
   width: 400,
   bgcolor: 'background.paper',
-  border: '2px solid #000',
+  // border: '2px solid #000',
   boxShadow: 24,
   p: 4,
+  padding: '20px',
+  borderRadius: '10px',
 };
 
-const MyModal = ({ region, name, salary, needOpen }) => {
+const MyModal = ({ region, name, salary, needOpen, duty }) => {
   const [open, setOpen] = useState(needOpen);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
-
-
 
 
   return (
@@ -36,12 +36,17 @@ const MyModal = ({ region, name, salary, needOpen }) => {
       >
         <Box sx={style}>
           <Typography id="modal-modal-title" variant="h6" component="h2">
-            {region}
+            <strong>Регион</strong> - {region}
           </Typography>
           <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-            {name}
+            <strong>Вакансия</strong> - {name}
           </Typography>
-          <p>{salary}</p>
+          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+            <strong>Зарплата :</strong> {salary}
+          </Typography>
+          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+            <strong>Обязанности вакансии</strong> : <br /> {duty.replace(/<[^>]+>/g, "")}
+          </Typography>
         </Box>
       </Modal>
     </div>
