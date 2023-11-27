@@ -1,5 +1,7 @@
 Выпускная экзаменационная работа по направлению FrontEnd. 
 Тема работы - аналог HH.ru
+Все изменения на ветке дев
+
 
 # Getting Started with Create React App
 
