@@ -14,9 +14,12 @@ const Slider = () => {
         spaceBetween={30}
         centeredSlides={true}
         loop={true}
-        autoplay={{
-          delay: 1500,
-          disableOnInteraction: true,
+        // autoplay={{
+        //   delay: 1500,
+        //   disableOnInteraction: true,
+        // }}
+        pagination={{
+          clickable: true,
         }}
         modules={[Autoplay]}
         className="mySwiper"

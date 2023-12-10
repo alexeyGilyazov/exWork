@@ -1,10 +1,10 @@
 import React from 'react'
 import './main.css'
 import { Container } from '@mui/material'
-
 const Main = () => {
   return (
     <div className='main'>
+
       <Container className='main__container'>
         <div className='title-block'>
           <div className='block__wrapper'>

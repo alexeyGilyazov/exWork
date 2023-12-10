@@ -4,33 +4,34 @@ import {
   setVacancies,
   setFilteredVacantions,
   sortVacancies,
-} from './../../slice/vacantionSlice'
+} from '../../slice/vacantionSlice'
 import {
   setFavorite,
   addFavorite,
   removeFavorite,
-  clearFavorite,
-} from './../../slice/favoriteSlice'
+  // clearFavorite,
+  changeQuantity,
+} from '../../slice/favoriteSlice'
 
 import axios from 'axios'
-import regionList from './../../data/region.json'
+import regionList from '../../data/region.json'
 
 import './style.css'
 import { Container } from '@mui/material'
 import WysiwygIcon from '@mui/icons-material/Wysiwyg'
-import Myselect from '../UI/select/Myselect'
-import MyModal from '../UI/modal/MyModal'
-import Loader from '../UI/loader/Loader'
+import Myselect from './../../components/UI/select/Myselect'
+import MyModal from './../../components/UI//modal/MyModal'
+import Loader from './../../components/UI/loader/Loader'
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder'
 
-const Vacantion = () => {
+const VacationsPage = () => {
   const [currentPage, setCurrentPage] = useState(1)
   const [fetching, setFetching] = useState(false)
   const [searchJob, setSearchJob] = useState('')
   const [searchRegion, setSearchRegion] = useState('')
   const [selectedSort, setSelectedSort] = useState('')
   const [oneVacancy, setOneVacancy] = useState([])
-  const [needOpen, setNeedOpen] = useState(false)
+  const [needOpen, setNeedOpen] = useState([]);
   const [needLoader, setNeedLoader] = useState(false)
   const [actualColor, setActualColor] = useState('white')
 
@@ -42,14 +43,14 @@ const Vacantion = () => {
   useEffect(() => {
     axios
       .get(
-        `http://opendata.trudvsem.ru/api/v1/vacancies?offset=${currentPage}&limit=20`
+        `http://opendata.trudvsem.ru/api/v1/vacancies?offset=${currentPage}&limit=9`
       )
       .then(res => {
         dispatch(setVacancies(res.data))
         if (res.data.results.vacancies.length > 0) {
           setCurrentPage(prevState => prevState + 1)
         }
-        setFetching(true)
+        setNeedLoader(true)
       })
       .catch(err => {
         throw new Error(err)
@@ -58,26 +59,31 @@ const Vacantion = () => {
         setFetching(false)
         setNeedLoader(false)
       })
-  }, [currentPage, dispatch, setFetching, setNeedLoader])
+  }, [currentPage, fetching])
 
   // слушание события скролл для пагинации
   useEffect(() => {
-    document.addEventListener('scroll', scrollHandler)
-    return () => {
-      document.removeEventListener('scroll', scrollHandler)
+    // Проверяем, что fetching false
+    if (!fetching) {
+      document.addEventListener('scroll', scrollHandler);
     }
-  }, [])
+    return () => {
+      document.removeEventListener('scroll', scrollHandler);
+    };
+  }, [fetching]);
 
   // функция пагинации
-  const scrollHandler = e => {
+  const scrollHandler = (e) => {
     if (
       e.target.documentElement.scrollHeight -
       (e.target.documentElement.scrollTop + window.innerHeight) <
-      10
+      10 &&
+      vacantions && vacantions.length > 0
     ) {
-      setFetching(true)
+      setFetching(true);
     }
-  }
+    setFetching(false);
+  };
 
   //  поиск по вакансии
   const handleSearch = e => {
@@ -126,30 +132,34 @@ const Vacantion = () => {
   }
 
   const openVacancy = (id, companycode) => {
-    const url = `http://opendata.trudvsem.ru/api/v1/vacancies/vacancy/${companycode}/${id}`
+    const url = `http://opendata.trudvsem.ru/api/v1/vacancies/vacancy/${companycode}/${id}`;
     axios
       .get(url)
       .then(res => {
-        setOneVacancy(res.data)
-        console.log(oneVacancy)
-        setNeedOpen(true)
+        setOneVacancy(res.data);
+        const openStatus = Array(vacantions.results.vacancies.length).fill(false);
+        openStatus[id] = true;
+        setNeedOpen(openStatus);
       })
       .catch(err => {
-        throw new Error(err)
-        setNeedOpen(false)
-      })
-  }
+        throw new Error(err);
+      });
+  };
 
   const changeFavorite = id => {
-    if (favorites.includes(id)) {
-      dispatch(removeFavorite(id))
+    const favoriteIds = favorites.map(favorite => favorite.vacancy.id);
+    if (favoriteIds.includes(id)) {
+      dispatch(removeFavorite(id));
+      setActualColor('white');
     } else {
-      dispatch(addFavorite(id))
+      dispatch(addFavorite(id));
+      setActualColor('red');
     }
-  }
+    dispatch(changeQuantity());
+  };
 
   return (
-    <Container>
+    <Container sx={{ marginTop: '100px' }}>
       <form className='form-search'>
         <div>
           <input
@@ -204,31 +214,38 @@ const Vacantion = () => {
               <div className='header-line'>
                 <span style={{ marginRight: '10px' }}>Новая вакансия </span>
                 <WysiwygIcon />
-                <FavoriteBorderIcon
-                  onClick={() => changeFavorite(item.vacancy.id)}
-                  style={{ marginLeft: '10px', color: `${actualColor}` }}
-
-                />
+                {item.vacancy && item.vacancy.id && (
+                  <FavoriteBorderIcon
+                    onClick={() => changeFavorite(item.vacancy.id)}
+                    style={{ marginLeft: '10px', fill: actualColor }}
+                  />
+                )}
               </div>
-              <p style={{ paddingLeft: '10px' }}>
-                <span className='span'>Регион:</span> <br />
-                {item.vacancy.region.name}
-              </p>
+              {item.vacancy && item.vacancy.region && (
+                <p style={{ paddingLeft: '10px' }}>
+                  <span className='span'>Регион:</span> <br />
+                  {item.vacancy.region.name}
+                </p>
+              )}
               <div className='info-vacantion'>
                 <p className='span'>
                   Вакансия: <br />
                 </p>
-                <span>{item.vacancy['job-name']}</span>
+                {item.vacancy && item.vacancy['job-name'] && (
+                  <span>{item.vacancy['job-name']}</span>
+                )}
                 <p className='span'>
                   Зарплата: <br />
                 </p>
-                <span>{item.vacancy.salary_min}</span>
+                {item.vacancy && item.vacancy.salary_min && (
+                  <span>{item.vacancy.salary_min}</span>
+                )}
               </div>
               <MyModal
                 region={item.vacancy.region.name}
                 name={item.vacancy['job-name']}
                 salary={item.vacancy.salary_min}
-                needOpen={needOpen}
+                needOpen={needOpen[index]}
                 duty={item.vacancy.duty || ''}
               />
             </div>
@@ -241,4 +258,4 @@ const Vacantion = () => {
   )
 }
 
-export default Vacantion
+export default VacationsPage
