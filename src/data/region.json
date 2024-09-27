@@ -1,0 +1,4027 @@
+{
+	"regions": [
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "7200000000000",
+			"name": "Тюменская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 17929.17
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 61901
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19297.32
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "6800000000000",
+			"name": "Тамбовская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11323.71
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 0.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 39346
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18866.29
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "3300000000000",
+			"name": "Владимирская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16219.91
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 12.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 45677
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20726.26
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "9200000000000",
+			"name": "г Севастополь",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 21962.74
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 86630
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20474.95
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "5900000000000",
+			"name": "Пермский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14273.6
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 53234
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20164.95
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "8900000000000",
+			"name": "Ямало-Ненецкий автономный округ",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 34534.18
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 9.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 131516
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 23960.66
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "5800000000000",
+			"name": "Пензенская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 9946.75
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 1.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41307
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18095.93
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "1100000000000",
+			"name": "Коми республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 17532.33
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 68790
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 22655.26
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 6
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "2600000000000",
+			"name": "Ставропольский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13105.1
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41402
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20347.99
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "1200000000000",
+			"name": "Марий Эл республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11292.43
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 0.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40713
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18613.55
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "7900000000000",
+			"name": "Еврейская автономная область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 20221.3
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 56957
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 24003.88
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "0900000000000",
+			"name": "Карачаево-Черкесская республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13702.47
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 35463
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19354.5
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 6
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "3200000000000",
+			"name": "Брянская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 10238.68
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40804
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20018.7
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "0300000000000",
+			"name": "Бурятия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 20348.09
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 53495
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20221.98
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 7
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Baikonur",
+			"code": "9900000000000",
+			"name": "г Байконур",
+			"statistics": [
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "2900000000000",
+			"name": "Архангельская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16015.77
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 64417
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 23132.51
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 6
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "4100000000000",
+			"name": "Камчатский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 29495.47
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 103540
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 31814.79
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "7800000000000",
+			"name": "г Санкт-Петербург",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 24394.33
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 20
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 43112
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 23304.02
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "2100000000000",
+			"name": "Чувашская Республика - чувашия",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11643.17
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41527
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18313.83
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "7600000000000",
+			"name": "Ярославская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12302.62
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 47388
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19937.94
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "7100000000000",
+			"name": "Тульская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16095.01
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 51218
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20096.08
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "4800000000000",
+			"name": "Липецкая область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 10942.31
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 46711
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18242.1
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "5500000000000",
+			"name": "Омская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13916
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 1.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 46952
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18345.28
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"code": "9400000000000",
+			"name": "Луганская Народная республика",
+			"statistics": []
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "4200000000000",
+			"name": "Кемеровская область - Кузбасс область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12079.28
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 57653
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18623.34
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "4600000000000",
+			"name": "Курская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12399.43
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 46059
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19082.19
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "7700000000000",
+			"name": "г Москва",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 38911.68
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 10.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 125638
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 29855.27
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "9100000000000",
+			"name": "Крым республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 18523.21
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41986
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20180.51
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "0400000000000",
+			"name": "Алтай республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 26220.22
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 43974
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21567.77
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 9
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "3800000000000",
+			"name": "Иркутская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16442.66
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 64635
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19379.56
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "6500000000000",
+			"name": "Сахалинская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 29283.8
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -2.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 102684
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 25086.32
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "2500000000000",
+			"name": "Приморский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 20990.42
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 63589
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 23552.17
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "1500000000000",
+			"name": "Северная Осетия - Алания республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16043.06
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 36360
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18282.95
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 11
+				}
+			]
+		},
+		{
+			"code": "9000000000000",
+			"name": "Запорожская область",
+			"statistics": []
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "3100000000000",
+			"name": "Белгородская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11593.92
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 47638
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18086.38
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "3400000000000",
+			"name": "Волгоградская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12906.52
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -3.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 44242
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18409.81
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "8700000000000",
+			"name": "Чукотский автономный округ",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 32403.7
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 140602
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 34973.82
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "5600000000000",
+			"name": "Оренбургская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13253.34
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 43540
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18312.86
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "0600000000000",
+			"name": "Ингушетия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11241.37
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 0.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 400
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 32801
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18269.26
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 28
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "6900000000000",
+			"name": "Тверская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 17399.49
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 45732
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19463.78
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "3700000000000",
+			"name": "Ивановская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14215.18
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 1.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 36380
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19841.26
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "8300000000000",
+			"name": "Ненецкий автономный округ",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 23986.1
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 8.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 106949
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 25549.99
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 7
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "1300000000000",
+			"name": "Мордовия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 10686.15
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 39538
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18070.79
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "1000000000000",
+			"name": "Карелия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 19083.61
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 56458
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 22152.65
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 6
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "7300000000000",
+			"name": "Ульяновская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12546.85
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41523
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19582.8
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "0700000000000",
+			"name": "Кабардино-Балкарская республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14083.65
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 35251
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19822.63
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 9
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "6700000000000",
+			"name": "Смоленская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14194.98
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41717
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19769.23
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "7000000000000",
+			"name": "Томская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14979.57
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 57879
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20116.05
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "5700000000000",
+			"name": "Орловская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 9306.23
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40843
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18252.02
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "3600000000000",
+			"name": "Воронежская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11489.13
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 46277
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20179.56
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "0800000000000",
+			"name": "Калмыкия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 10723.81
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -0.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 36349
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19164.8
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 7
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "1800000000000",
+			"name": "Удмуртская республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13378.45
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 45811
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19050.54
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "6600000000000",
+			"name": "Свердловская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14509.68
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 55308
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19909.32
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "5000000000000",
+			"name": "Московская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 26321.01
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 11.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 70705
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 23204.53
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "5200000000000",
+			"name": "Нижегородская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 14929.18
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 48368
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20239.26
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "3500000000000",
+			"name": "Вологодская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13355.58
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 53580
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21753.81
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "2700000000000",
+			"name": "Хабаровский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 23102.63
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 65897
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 24193.52
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "6000000000000",
+			"name": "Псковская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 9274.78
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 1.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 38966
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19534
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "5300000000000",
+			"name": "Новгородская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13460.32
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 45247
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18801.16
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "0200000000000",
+			"name": "Башкортостан республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12768.75
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 49460
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18868.87
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "4700000000000",
+			"name": "Ленинградская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 17113.38
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 60008
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20911.67
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "2400000000000",
+			"name": "Красноярский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 18423.93
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -0.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 71728
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21327.96
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{ "code": "9500000000000", "name": "Херсонская область", "statistics": [] },
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "4000000000000",
+			"name": "Калужская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 15160.47
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 53910
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20849.81
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "6400000000000",
+			"name": "Саратовская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12582.46
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 0.6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 42917
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18258.63
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "5100000000000",
+			"name": "Мурманская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 18730.23
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 87326
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 24381.94
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 5
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "1700000000000",
+			"name": "Тыва республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 21725.46
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 51782
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19041.24
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 8
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "6300000000000",
+			"name": "Самарская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12507.23
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 48874
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19198.35
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"code": "9300000000000",
+			"name": "Донецкая Народная республика",
+			"statistics": []
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "1900000000000",
+			"name": "Хакасия республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 15229.64
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 54522
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20417.17
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "4300000000000",
+			"name": "Кировская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 9638.59
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40833
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18998.47
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "3000000000000",
+			"name": "Астраханская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12328.63
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": -3.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 47780
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18038.64
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 5
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "2800000000000",
+			"name": "Амурская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 25681.38
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 65864
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21792.88
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "6100000000000",
+			"name": "Ростовская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13075.61
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 44767
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20774.67
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "4500000000000",
+			"name": "Курганская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12136.18
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 1.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 41792
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18751.99
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 5
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "2000000000000",
+			"name": "Чеченская республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 16535.28
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 400
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 33700
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19447.64
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 11
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Northwestern_Federal_District",
+			"code": "3900000000000",
+			"name": "Калининградская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 19861.48
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 47349
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21666.92
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "6200000000000",
+			"name": "Рязанская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11593.53
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.9
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 45770
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19732.96
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "5400000000000",
+			"name": "Новосибирская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12421.26
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.8
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 53757
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20469.3
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "4900000000000",
+			"name": "Магаданская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 28982.75
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 121462
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 28694.21
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "0100000000000",
+			"name": "Адыгея республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 12754.03
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.5
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40231
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18645.42
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 5
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Volga_Federal_District",
+			"code": "1600000000000",
+			"name": "Татарстан республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13884.72
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 52274
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18315.1
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Central_Federal_District",
+			"code": "4400000000000",
+			"name": "Костромская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11323.71
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 40242
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 19323.47
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "2200000000000",
+			"name": "Алтайский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 11447.18
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 3.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 39270
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20322.95
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 4
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Siberian_Federal_District",
+			"code": "7500000000000",
+			"name": "Забайкальский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 21250.35
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 5.4
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 59413
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 20842.63
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 7
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "8600000000000",
+			"name": "Ханты-Мансийский Автономный округ - Югра автономный округ",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 22286.71
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 7.2
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 97562
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 22674.6
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Far_Eastern_Federal_District",
+			"code": "1400000000000",
+			"name": "Саха /Якутия/ республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 25659.48
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 1
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 16
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 96728
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 26623.4
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 6
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/North_Caucasian_Federal_District",
+			"code": "0500000000000",
+			"name": "Дагестан республика",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 24427.36
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 2.7
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": -1
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 35082
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18382.85
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 12
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/page/Southern_Federal_District",
+			"code": "2300000000000",
+			"name": "Краснодарский край",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 17830.62
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 8.1
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 600
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 50252
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 21574.97
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 2
+				}
+			]
+		},
+		{
+			"contained_in_place": "http://dbpedia.org/resource/Ural_Federal_District",
+			"code": "7400000000000",
+			"name": "Челябинская область",
+			"statistics": [
+				{
+					"code": "ACCOMODATION_ACCESSIBILITY",
+					"measure": "руб.",
+					"name": "Доступность жилья",
+					"value": 13515.29
+				},
+				{
+					"code": "ATTRACTION_REGION",
+					"name": "Регионы, оказывающие поддержку при переезде",
+					"value": 0
+				},
+				{
+					"code": "ECONOMIC_GROWTH",
+					"measure": "%",
+					"name": "Темп экономического роста",
+					"value": 6.3
+				},
+				{
+					"code": "KINDERGARTEN_ACCESSIBILITY",
+					"name": "Доступность детских садов",
+					"value": 800
+				},
+				{
+					"code": "MEDIUM_SALARY_DIFFERENCE",
+					"measure": "руб.",
+					"name": "Средняя заработная плата",
+					"value": 50104
+				},
+				{
+					"code": "PRICE_LEVEL",
+					"measure": "руб.",
+					"name": "Уровень цен",
+					"value": 18570.29
+				},
+				{
+					"code": "UNEMPLOYMENT_LEVEL",
+					"measure": "%",
+					"name": "Уровень безработицы",
+					"value": 3
+				}
+			]
+		}
+	]
+}

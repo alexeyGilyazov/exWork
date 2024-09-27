@@ -1,16 +1,21 @@
-import React, { useState } from 'react'
+import React from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import InfoPage from '../pages/InfoPage/InfoPage'
+import VacationsPage from '../pages/vacationsPage/VacationsPage'
+import Nav from '../components/navigation/Nav'
+import FavoritePage from '../pages/favorite/FavoritePage'
 
-function App() {
-    const [counter, setCounter] = useState(0)
-
-    const onChangeCounter = () => {
-        setCounter(counter + 1)
-    }
-
-    return <>
-        <h1>counter : {counter}</h1>
-        <button onClick={onChangeCounter}>Increment</button>
-    </>
+const App = () => {
+  return (
+    <BrowserRouter>
+      <Nav />
+      <Routes>
+        <Route path='/' element={<InfoPage />} />
+        <Route path='/vacationspage' element={<VacationsPage />} />
+        <Route path='/favoritepage' element={<FavoritePage />} />
+      </Routes>
+    </BrowserRouter>
+  )
 }
 
 export default App
